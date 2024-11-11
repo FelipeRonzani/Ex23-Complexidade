@@ -1,1 +1,8 @@
-# Ex23-Complexidade
+# Observações
+A análise da posição do título específico em vetores de diferentes tamanhos revela um comportamento interessante em relação à distribuição dos dados em função do tamanho do vetor. Para o vetor de 20 posições, o título ficou na posição 13, o que sugere uma distribuição relativamente próxima à metade do intervalo disponível, considerando o tamanho reduzido do vetor. Com um número limitado de posições, a chance de colisões (quando dois ou mais títulos caem no mesmo índice) é maior, mas, neste caso, o título específico ficou em uma posição que não é nem a extrema nem a inicial.
+
+No vetor de 131 posições, a posição do título foi 74, ou seja, o índice para o título ficou mais distante das extremidades do vetor em comparação com o caso de 20 posições. A maior quantidade de posições no vetor diminui as chances de colisões e distribui os valores de hash de forma mais uniforme.
+
+Já no vetor de 1021 posições, a posição do título foi 384, o que representa um deslocamento ainda maior em relação ao início do vetor. O aumento no número de posições proporciona uma distribuição mais dispersa, com menos chance de colisões, e o título caiu em uma posição que reflete essa maior capacidade de dispersão.
+
+De maneira geral, à medida que o tamanho do vetor aumenta, o índice no qual o título específico é armazenado se afasta das extremidades do vetor, indicando que a maior quantidade de posições ajuda a distribuir melhor os dados. Esse comportamento é esperado em funções de hash, onde vetores maiores ajudam a reduzir a concentração de colisões e proporcionam uma distribuição mais equilibrada dos índices.
