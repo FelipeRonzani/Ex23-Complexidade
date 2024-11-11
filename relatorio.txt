@@ -1,0 +1,1196 @@
+Relatório para vetor de 20 posições:
+Índice 0: 51 título(s)
+Índice 1: 51 título(s)
+Índice 2: 44 título(s)
+Índice 3: 47 título(s)
+Índice 4: 40 título(s)
+Índice 5: 61 título(s)
+Índice 6: 58 título(s)
+Índice 7: 61 título(s)
+Índice 8: 46 título(s)
+Índice 9: 53 título(s)
+Índice 10: 57 título(s)
+Índice 11: 56 título(s)
+Índice 12: 65 título(s)
+Índice 13: 54 título(s)
+Índice 14: 47 título(s)
+Índice 15: 65 título(s)
+Índice 16: 53 título(s)
+Índice 17: 48 título(s)
+Índice 18: 49 título(s)
+Índice 19: 45 título(s)
+
+Total de índices vazios: 0
+
+Posição do título específico ('ESTUDANDO COMPLEXIDADE COM FELIPE RONZANI SILVA') para vetor de 20 posições: 13
+
+========================================
+
+Relatório para vetor de 131 posições:
+Índice 0: 5 título(s)
+Índice 1: 12 título(s)
+Índice 2: 11 título(s)
+Índice 3: 7 título(s)
+Índice 4: 9 título(s)
+Índice 5: 6 título(s)
+Índice 6: 19 título(s)
+Índice 7: 12 título(s)
+Índice 8: 12 título(s)
+Índice 9: 5 título(s)
+Índice 10: 17 título(s)
+Índice 11: 6 título(s)
+Índice 12: 2 título(s)
+Índice 13: 11 título(s)
+Índice 14: 5 título(s)
+Índice 15: 7 título(s)
+Índice 16: 6 título(s)
+Índice 17: 9 título(s)
+Índice 18: 6 título(s)
+Índice 19: 9 título(s)
+Índice 20: 10 título(s)
+Índice 21: 9 título(s)
+Índice 22: 9 título(s)
+Índice 23: 5 título(s)
+Índice 24: 8 título(s)
+Índice 25: 6 título(s)
+Índice 26: 7 título(s)
+Índice 27: 7 título(s)
+Índice 28: 6 título(s)
+Índice 29: 9 título(s)
+Índice 30: 6 título(s)
+Índice 31: 4 título(s)
+Índice 32: 3 título(s)
+Índice 33: 9 título(s)
+Índice 34: 7 título(s)
+Índice 35: 6 título(s)
+Índice 36: 9 título(s)
+Índice 37: 7 título(s)
+Índice 38: 7 título(s)
+Índice 39: 11 título(s)
+Índice 40: 8 título(s)
+Índice 41: 4 título(s)
+Índice 42: 10 título(s)
+Índice 43: 7 título(s)
+Índice 44: 5 título(s)
+Índice 45: 8 título(s)
+Índice 46: 8 título(s)
+Índice 47: 9 título(s)
+Índice 48: 7 título(s)
+Índice 49: 11 título(s)
+Índice 50: 9 título(s)
+Índice 51: 4 título(s)
+Índice 52: 5 título(s)
+Índice 53: 5 título(s)
+Índice 54: 9 título(s)
+Índice 55: 5 título(s)
+Índice 56: 7 título(s)
+Índice 57: 8 título(s)
+Índice 58: 6 título(s)
+Índice 59: 13 título(s)
+Índice 60: 2 título(s)
+Índice 61: 11 título(s)
+Índice 62: 9 título(s)
+Índice 63: 4 título(s)
+Índice 64: 11 título(s)
+Índice 65: 4 título(s)
+Índice 66: 8 título(s)
+Índice 67: 7 título(s)
+Índice 68: 14 título(s)
+Índice 69: 10 título(s)
+Índice 70: 7 título(s)
+Índice 71: 12 título(s)
+Índice 72: 9 título(s)
+Índice 73: 9 título(s)
+Índice 74: 6 título(s)
+Índice 75: 8 título(s)
+Índice 76: 8 título(s)
+Índice 77: 13 título(s)
+Índice 78: 12 título(s)
+Índice 79: 8 título(s)
+Índice 80: 5 título(s)
+Índice 81: 8 título(s)
+Índice 82: 8 título(s)
+Índice 83: 6 título(s)
+Índice 84: 10 título(s)
+Índice 85: 10 título(s)
+Índice 86: 6 título(s)
+Índice 87: 7 título(s)
+Índice 88: 8 título(s)
+Índice 89: 7 título(s)
+Índice 90: 9 título(s)
+Índice 91: 9 título(s)
+Índice 92: 9 título(s)
+Índice 93: 9 título(s)
+Índice 94: 11 título(s)
+Índice 95: 5 título(s)
+Índice 96: 2 título(s)
+Índice 97: 5 título(s)
+Índice 98: 10 título(s)
+Índice 99: 8 título(s)
+Índice 100: 8 título(s)
+Índice 101: 5 título(s)
+Índice 102: 10 título(s)
+Índice 103: 8 título(s)
+Índice 104: 8 título(s)
+Índice 105: 5 título(s)
+Índice 106: 10 título(s)
+Índice 107: 10 título(s)
+Índice 108: 6 título(s)
+Índice 109: 9 título(s)
+Índice 110: 11 título(s)
+Índice 111: 11 título(s)
+Índice 112: 6 título(s)
+Índice 113: 11 título(s)
+Índice 114: 6 título(s)
+Índice 115: 11 título(s)
+Índice 116: 13 título(s)
+Índice 117: 8 título(s)
+Índice 118: 5 título(s)
+Índice 119: 16 título(s)
+Índice 120: 6 título(s)
+Índice 121: 13 título(s)
+Índice 122: 12 título(s)
+Índice 123: 7 título(s)
+Índice 124: 5 título(s)
+Índice 125: 9 título(s)
+Índice 126: 6 título(s)
+Índice 127: 6 título(s)
+Índice 128: 6 título(s)
+Índice 129: 5 título(s)
+Índice 130: 6 título(s)
+
+Total de índices vazios: 0
+
+Posição do título específico ('ESTUDANDO COMPLEXIDADE COM FELIPE RONZANI SILVA') para vetor de 131 posições: 74
+
+========================================
+
+Relatório para vetor de 1021 posições:
+Índice 0: Vazio
+Índice 1: Vazio
+Índice 2: 1 título(s)
+Índice 3: Vazio
+Índice 4: 2 título(s)
+Índice 5: 3 título(s)
+Índice 6: 2 título(s)
+Índice 7: 1 título(s)
+Índice 8: 1 título(s)
+Índice 9: Vazio
+Índice 10: Vazio
+Índice 11: 2 título(s)
+Índice 12: Vazio
+Índice 13: 2 título(s)
+Índice 14: Vazio
+Índice 15: 1 título(s)
+Índice 16: 5 título(s)
+Índice 17: 1 título(s)
+Índice 18: Vazio
+Índice 19: 1 título(s)
+Índice 20: Vazio
+Índice 21: 3 título(s)
+Índice 22: Vazio
+Índice 23: 1 título(s)
+Índice 24: 1 título(s)
+Índice 25: Vazio
+Índice 26: 1 título(s)
+Índice 27: 2 título(s)
+Índice 28: Vazio
+Índice 29: Vazio
+Índice 30: 1 título(s)
+Índice 31: 4 título(s)
+Índice 32: Vazio
+Índice 33: Vazio
+Índice 34: 1 título(s)
+Índice 35: 4 título(s)
+Índice 36: 1 título(s)
+Índice 37: Vazio
+Índice 38: 3 título(s)
+Índice 39: 1 título(s)
+Índice 40: 2 título(s)
+Índice 41: Vazio
+Índice 42: 2 título(s)
+Índice 43: 1 título(s)
+Índice 44: Vazio
+Índice 45: 2 título(s)
+Índice 46: Vazio
+Índice 47: 1 título(s)
+Índice 48: 2 título(s)
+Índice 49: Vazio
+Índice 50: 2 título(s)
+Índice 51: 1 título(s)
+Índice 52: Vazio
+Índice 53: 2 título(s)
+Índice 54: 3 título(s)
+Índice 55: 2 título(s)
+Índice 56: 1 título(s)
+Índice 57: 1 título(s)
+Índice 58: 1 título(s)
+Índice 59: 1 título(s)
+Índice 60: Vazio
+Índice 61: 1 título(s)
+Índice 62: 1 título(s)
+Índice 63: Vazio
+Índice 64: Vazio
+Índice 65: 2 título(s)
+Índice 66: 2 título(s)
+Índice 67: Vazio
+Índice 68: 1 título(s)
+Índice 69: Vazio
+Índice 70: 1 título(s)
+Índice 71: 1 título(s)
+Índice 72: 3 título(s)
+Índice 73: 3 título(s)
+Índice 74: Vazio
+Índice 75: 2 título(s)
+Índice 76: 2 título(s)
+Índice 77: 1 título(s)
+Índice 78: Vazio
+Índice 79: 2 título(s)
+Índice 80: Vazio
+Índice 81: 2 título(s)
+Índice 82: 3 título(s)
+Índice 83: 3 título(s)
+Índice 84: Vazio
+Índice 85: 4 título(s)
+Índice 86: 1 título(s)
+Índice 87: Vazio
+Índice 88: 1 título(s)
+Índice 89: Vazio
+Índice 90: 1 título(s)
+Índice 91: 2 título(s)
+Índice 92: Vazio
+Índice 93: 2 título(s)
+Índice 94: 1 título(s)
+Índice 95: 2 título(s)
+Índice 96: 1 título(s)
+Índice 97: Vazio
+Índice 98: 1 título(s)
+Índice 99: Vazio
+Índice 100: 1 título(s)
+Índice 101: Vazio
+Índice 102: Vazio
+Índice 103: 2 título(s)
+Índice 104: 1 título(s)
+Índice 105: Vazio
+Índice 106: 2 título(s)
+Índice 107: Vazio
+Índice 108: Vazio
+Índice 109: 2 título(s)
+Índice 110: Vazio
+Índice 111: 1 título(s)
+Índice 112: Vazio
+Índice 113: 4 título(s)
+Índice 114: Vazio
+Índice 115: Vazio
+Índice 116: Vazio
+Índice 117: 2 título(s)
+Índice 118: Vazio
+Índice 119: 1 título(s)
+Índice 120: 1 título(s)
+Índice 121: 1 título(s)
+Índice 122: Vazio
+Índice 123: Vazio
+Índice 124: 2 título(s)
+Índice 125: 2 título(s)
+Índice 126: 2 título(s)
+Índice 127: 1 título(s)
+Índice 128: 1 título(s)
+Índice 129: 1 título(s)
+Índice 130: Vazio
+Índice 131: 4 título(s)
+Índice 132: Vazio
+Índice 133: 1 título(s)
+Índice 134: Vazio
+Índice 135: 2 título(s)
+Índice 136: Vazio
+Índice 137: 1 título(s)
+Índice 138: 2 título(s)
+Índice 139: Vazio
+Índice 140: 1 título(s)
+Índice 141: 1 título(s)
+Índice 142: 1 título(s)
+Índice 143: Vazio
+Índice 144: 1 título(s)
+Índice 145: Vazio
+Índice 146: 1 título(s)
+Índice 147: 1 título(s)
+Índice 148: Vazio
+Índice 149: 4 título(s)
+Índice 150: 2 título(s)
+Índice 151: 1 título(s)
+Índice 152: 1 título(s)
+Índice 153: 1 título(s)
+Índice 154: 1 título(s)
+Índice 155: Vazio
+Índice 156: 1 título(s)
+Índice 157: Vazio
+Índice 158: Vazio
+Índice 159: 3 título(s)
+Índice 160: 3 título(s)
+Índice 161: 1 título(s)
+Índice 162: 1 título(s)
+Índice 163: 2 título(s)
+Índice 164: Vazio
+Índice 165: Vazio
+Índice 166: 1 título(s)
+Índice 167: 2 título(s)
+Índice 168: 5 título(s)
+Índice 169: 1 título(s)
+Índice 170: Vazio
+Índice 171: 1 título(s)
+Índice 172: 1 título(s)
+Índice 173: 2 título(s)
+Índice 174: 2 título(s)
+Índice 175: Vazio
+Índice 176: Vazio
+Índice 177: Vazio
+Índice 178: 1 título(s)
+Índice 179: 1 título(s)
+Índice 180: 2 título(s)
+Índice 181: Vazio
+Índice 182: 1 título(s)
+Índice 183: 2 título(s)
+Índice 184: Vazio
+Índice 185: Vazio
+Índice 186: 3 título(s)
+Índice 187: 1 título(s)
+Índice 188: 2 título(s)
+Índice 189: 2 título(s)
+Índice 190: 2 título(s)
+Índice 191: Vazio
+Índice 192: 2 título(s)
+Índice 193: 1 título(s)
+Índice 194: 2 título(s)
+Índice 195: 1 título(s)
+Índice 196: Vazio
+Índice 197: 1 título(s)
+Índice 198: 1 título(s)
+Índice 199: 3 título(s)
+Índice 200: 1 título(s)
+Índice 201: Vazio
+Índice 202: Vazio
+Índice 203: 1 título(s)
+Índice 204: 1 título(s)
+Índice 205: 1 título(s)
+Índice 206: 1 título(s)
+Índice 207: Vazio
+Índice 208: 1 título(s)
+Índice 209: 1 título(s)
+Índice 210: 1 título(s)
+Índice 211: 2 título(s)
+Índice 212: Vazio
+Índice 213: Vazio
+Índice 214: 2 título(s)
+Índice 215: 2 título(s)
+Índice 216: Vazio
+Índice 217: 1 título(s)
+Índice 218: 1 título(s)
+Índice 219: 2 título(s)
+Índice 220: 2 título(s)
+Índice 221: 1 título(s)
+Índice 222: Vazio
+Índice 223: Vazio
+Índice 224: 1 título(s)
+Índice 225: 1 título(s)
+Índice 226: Vazio
+Índice 227: Vazio
+Índice 228: Vazio
+Índice 229: Vazio
+Índice 230: 1 título(s)
+Índice 231: Vazio
+Índice 232: 1 título(s)
+Índice 233: 1 título(s)
+Índice 234: Vazio
+Índice 235: 2 título(s)
+Índice 236: Vazio
+Índice 237: 5 título(s)
+Índice 238: 1 título(s)
+Índice 239: 3 título(s)
+Índice 240: 2 título(s)
+Índice 241: Vazio
+Índice 242: 1 título(s)
+Índice 243: 1 título(s)
+Índice 244: 1 título(s)
+Índice 245: Vazio
+Índice 246: 1 título(s)
+Índice 247: 1 título(s)
+Índice 248: Vazio
+Índice 249: 2 título(s)
+Índice 250: 2 título(s)
+Índice 251: 1 título(s)
+Índice 252: 1 título(s)
+Índice 253: 1 título(s)
+Índice 254: 1 título(s)
+Índice 255: Vazio
+Índice 256: 1 título(s)
+Índice 257: 1 título(s)
+Índice 258: 1 título(s)
+Índice 259: 2 título(s)
+Índice 260: 2 título(s)
+Índice 261: 1 título(s)
+Índice 262: 1 título(s)
+Índice 263: 1 título(s)
+Índice 264: 1 título(s)
+Índice 265: Vazio
+Índice 266: Vazio
+Índice 267: 2 título(s)
+Índice 268: Vazio
+Índice 269: 1 título(s)
+Índice 270: 1 título(s)
+Índice 271: Vazio
+Índice 272: Vazio
+Índice 273: 1 título(s)
+Índice 274: Vazio
+Índice 275: 1 título(s)
+Índice 276: 1 título(s)
+Índice 277: Vazio
+Índice 278: 1 título(s)
+Índice 279: 1 título(s)
+Índice 280: 1 título(s)
+Índice 281: 2 título(s)
+Índice 282: Vazio
+Índice 283: 1 título(s)
+Índice 284: 1 título(s)
+Índice 285: 2 título(s)
+Índice 286: Vazio
+Índice 287: 2 título(s)
+Índice 288: Vazio
+Índice 289: 1 título(s)
+Índice 290: 3 título(s)
+Índice 291: 1 título(s)
+Índice 292: 1 título(s)
+Índice 293: Vazio
+Índice 294: 4 título(s)
+Índice 295: 3 título(s)
+Índice 296: 1 título(s)
+Índice 297: 1 título(s)
+Índice 298: 1 título(s)
+Índice 299: 3 título(s)
+Índice 300: 1 título(s)
+Índice 301: Vazio
+Índice 302: Vazio
+Índice 303: Vazio
+Índice 304: 2 título(s)
+Índice 305: 2 título(s)
+Índice 306: 1 título(s)
+Índice 307: 1 título(s)
+Índice 308: 2 título(s)
+Índice 309: Vazio
+Índice 310: 1 título(s)
+Índice 311: 1 título(s)
+Índice 312: 1 título(s)
+Índice 313: 1 título(s)
+Índice 314: 2 título(s)
+Índice 315: 4 título(s)
+Índice 316: Vazio
+Índice 317: Vazio
+Índice 318: 3 título(s)
+Índice 319: 2 título(s)
+Índice 320: 1 título(s)
+Índice 321: 1 título(s)
+Índice 322: 1 título(s)
+Índice 323: Vazio
+Índice 324: Vazio
+Índice 325: 1 título(s)
+Índice 326: 2 título(s)
+Índice 327: Vazio
+Índice 328: 1 título(s)
+Índice 329: 2 título(s)
+Índice 330: 1 título(s)
+Índice 331: 3 título(s)
+Índice 332: 2 título(s)
+Índice 333: 1 título(s)
+Índice 334: 1 título(s)
+Índice 335: 1 título(s)
+Índice 336: Vazio
+Índice 337: 4 título(s)
+Índice 338: 2 título(s)
+Índice 339: 2 título(s)
+Índice 340: 1 título(s)
+Índice 341: 1 título(s)
+Índice 342: 2 título(s)
+Índice 343: Vazio
+Índice 344: 1 título(s)
+Índice 345: Vazio
+Índice 346: 1 título(s)
+Índice 347: Vazio
+Índice 348: 2 título(s)
+Índice 349: 1 título(s)
+Índice 350: 2 título(s)
+Índice 351: Vazio
+Índice 352: 1 título(s)
+Índice 353: 1 título(s)
+Índice 354: 2 título(s)
+Índice 355: 2 título(s)
+Índice 356: 1 título(s)
+Índice 357: 1 título(s)
+Índice 358: Vazio
+Índice 359: 1 título(s)
+Índice 360: 1 título(s)
+Índice 361: 1 título(s)
+Índice 362: 1 título(s)
+Índice 363: Vazio
+Índice 364: 2 título(s)
+Índice 365: Vazio
+Índice 366: 1 título(s)
+Índice 367: 1 título(s)
+Índice 368: 1 título(s)
+Índice 369: Vazio
+Índice 370: 1 título(s)
+Índice 371: Vazio
+Índice 372: 1 título(s)
+Índice 373: Vazio
+Índice 374: 1 título(s)
+Índice 375: Vazio
+Índice 376: 1 título(s)
+Índice 377: 1 título(s)
+Índice 378: Vazio
+Índice 379: 1 título(s)
+Índice 380: 1 título(s)
+Índice 381: 1 título(s)
+Índice 382: 1 título(s)
+Índice 383: 1 título(s)
+Índice 384: 1 título(s)
+Índice 385: Vazio
+Índice 386: Vazio
+Índice 387: Vazio
+Índice 388: Vazio
+Índice 389: 1 título(s)
+Índice 390: Vazio
+Índice 391: 1 título(s)
+Índice 392: Vazio
+Índice 393: Vazio
+Índice 394: 1 título(s)
+Índice 395: 2 título(s)
+Índice 396: Vazio
+Índice 397: 1 título(s)
+Índice 398: 1 título(s)
+Índice 399: Vazio
+Índice 400: Vazio
+Índice 401: Vazio
+Índice 402: Vazio
+Índice 403: 1 título(s)
+Índice 404: 1 título(s)
+Índice 405: 1 título(s)
+Índice 406: Vazio
+Índice 407: Vazio
+Índice 408: Vazio
+Índice 409: 2 título(s)
+Índice 410: 1 título(s)
+Índice 411: Vazio
+Índice 412: Vazio
+Índice 413: Vazio
+Índice 414: 1 título(s)
+Índice 415: 2 título(s)
+Índice 416: Vazio
+Índice 417: 2 título(s)
+Índice 418: 1 título(s)
+Índice 419: 2 título(s)
+Índice 420: 2 título(s)
+Índice 421: Vazio
+Índice 422: 2 título(s)
+Índice 423: 1 título(s)
+Índice 424: Vazio
+Índice 425: Vazio
+Índice 426: Vazio
+Índice 427: 2 título(s)
+Índice 428: 1 título(s)
+Índice 429: 2 título(s)
+Índice 430: Vazio
+Índice 431: 1 título(s)
+Índice 432: Vazio
+Índice 433: 1 título(s)
+Índice 434: 1 título(s)
+Índice 435: Vazio
+Índice 436: 1 título(s)
+Índice 437: Vazio
+Índice 438: 1 título(s)
+Índice 439: Vazio
+Índice 440: Vazio
+Índice 441: Vazio
+Índice 442: 2 título(s)
+Índice 443: 2 título(s)
+Índice 444: 3 título(s)
+Índice 445: Vazio
+Índice 446: Vazio
+Índice 447: 1 título(s)
+Índice 448: 1 título(s)
+Índice 449: 1 título(s)
+Índice 450: 1 título(s)
+Índice 451: 2 título(s)
+Índice 452: Vazio
+Índice 453: 1 título(s)
+Índice 454: 1 título(s)
+Índice 455: 1 título(s)
+Índice 456: 1 título(s)
+Índice 457: Vazio
+Índice 458: 1 título(s)
+Índice 459: Vazio
+Índice 460: 1 título(s)
+Índice 461: Vazio
+Índice 462: 1 título(s)
+Índice 463: 3 título(s)
+Índice 464: Vazio
+Índice 465: 2 título(s)
+Índice 466: 2 título(s)
+Índice 467: 1 título(s)
+Índice 468: Vazio
+Índice 469: 2 título(s)
+Índice 470: Vazio
+Índice 471: 1 título(s)
+Índice 472: Vazio
+Índice 473: 1 título(s)
+Índice 474: Vazio
+Índice 475: Vazio
+Índice 476: 1 título(s)
+Índice 477: 1 título(s)
+Índice 478: 1 título(s)
+Índice 479: Vazio
+Índice 480: 1 título(s)
+Índice 481: 2 título(s)
+Índice 482: Vazio
+Índice 483: 1 título(s)
+Índice 484: 1 título(s)
+Índice 485: Vazio
+Índice 486: Vazio
+Índice 487: 2 título(s)
+Índice 488: Vazio
+Índice 489: Vazio
+Índice 490: 2 título(s)
+Índice 491: Vazio
+Índice 492: 2 título(s)
+Índice 493: 1 título(s)
+Índice 494: 1 título(s)
+Índice 495: Vazio
+Índice 496: 2 título(s)
+Índice 497: Vazio
+Índice 498: 3 título(s)
+Índice 499: Vazio
+Índice 500: Vazio
+Índice 501: 1 título(s)
+Índice 502: 3 título(s)
+Índice 503: 1 título(s)
+Índice 504: 2 título(s)
+Índice 505: 1 título(s)
+Índice 506: 1 título(s)
+Índice 507: 2 título(s)
+Índice 508: 1 título(s)
+Índice 509: 2 título(s)
+Índice 510: Vazio
+Índice 511: Vazio
+Índice 512: 1 título(s)
+Índice 513: 2 título(s)
+Índice 514: Vazio
+Índice 515: 1 título(s)
+Índice 516: 1 título(s)
+Índice 517: 2 título(s)
+Índice 518: Vazio
+Índice 519: Vazio
+Índice 520: 1 título(s)
+Índice 521: 2 título(s)
+Índice 522: 1 título(s)
+Índice 523: Vazio
+Índice 524: 3 título(s)
+Índice 525: Vazio
+Índice 526: 1 título(s)
+Índice 527: Vazio
+Índice 528: Vazio
+Índice 529: Vazio
+Índice 530: 1 título(s)
+Índice 531: 5 título(s)
+Índice 532: 4 título(s)
+Índice 533: Vazio
+Índice 534: 1 título(s)
+Índice 535: Vazio
+Índice 536: Vazio
+Índice 537: Vazio
+Índice 538: 4 título(s)
+Índice 539: 1 título(s)
+Índice 540: Vazio
+Índice 541: 2 título(s)
+Índice 542: 1 título(s)
+Índice 543: 1 título(s)
+Índice 544: 2 título(s)
+Índice 545: 2 título(s)
+Índice 546: 1 título(s)
+Índice 547: 3 título(s)
+Índice 548: Vazio
+Índice 549: 1 título(s)
+Índice 550: Vazio
+Índice 551: Vazio
+Índice 552: Vazio
+Índice 553: Vazio
+Índice 554: 2 título(s)
+Índice 555: 1 título(s)
+Índice 556: Vazio
+Índice 557: 1 título(s)
+Índice 558: 2 título(s)
+Índice 559: 2 título(s)
+Índice 560: Vazio
+Índice 561: 1 título(s)
+Índice 562: Vazio
+Índice 563: 1 título(s)
+Índice 564: 1 título(s)
+Índice 565: 2 título(s)
+Índice 566: Vazio
+Índice 567: Vazio
+Índice 568: 1 título(s)
+Índice 569: 1 título(s)
+Índice 570: 1 título(s)
+Índice 571: 1 título(s)
+Índice 572: 1 título(s)
+Índice 573: 2 título(s)
+Índice 574: 2 título(s)
+Índice 575: 2 título(s)
+Índice 576: 3 título(s)
+Índice 577: 1 título(s)
+Índice 578: Vazio
+Índice 579: Vazio
+Índice 580: 1 título(s)
+Índice 581: 1 título(s)
+Índice 582: 1 título(s)
+Índice 583: 1 título(s)
+Índice 584: 1 título(s)
+Índice 585: 1 título(s)
+Índice 586: 3 título(s)
+Índice 587: Vazio
+Índice 588: 2 título(s)
+Índice 589: Vazio
+Índice 590: 2 título(s)
+Índice 591: 2 título(s)
+Índice 592: 1 título(s)
+Índice 593: Vazio
+Índice 594: 3 título(s)
+Índice 595: 4 título(s)
+Índice 596: Vazio
+Índice 597: 3 título(s)
+Índice 598: 2 título(s)
+Índice 599: Vazio
+Índice 600: Vazio
+Índice 601: 1 título(s)
+Índice 602: Vazio
+Índice 603: 3 título(s)
+Índice 604: 1 título(s)
+Índice 605: 1 título(s)
+Índice 606: 1 título(s)
+Índice 607: 1 título(s)
+Índice 608: Vazio
+Índice 609: 4 título(s)
+Índice 610: Vazio
+Índice 611: Vazio
+Índice 612: 1 título(s)
+Índice 613: 2 título(s)
+Índice 614: 1 título(s)
+Índice 615: 2 título(s)
+Índice 616: Vazio
+Índice 617: Vazio
+Índice 618: 1 título(s)
+Índice 619: Vazio
+Índice 620: Vazio
+Índice 621: 2 título(s)
+Índice 622: 1 título(s)
+Índice 623: 3 título(s)
+Índice 624: Vazio
+Índice 625: Vazio
+Índice 626: 1 título(s)
+Índice 627: 2 título(s)
+Índice 628: Vazio
+Índice 629: 3 título(s)
+Índice 630: 1 título(s)
+Índice 631: Vazio
+Índice 632: Vazio
+Índice 633: Vazio
+Índice 634: 2 título(s)
+Índice 635: 2 título(s)
+Índice 636: 1 título(s)
+Índice 637: Vazio
+Índice 638: 1 título(s)
+Índice 639: 1 título(s)
+Índice 640: 1 título(s)
+Índice 641: 1 título(s)
+Índice 642: 1 título(s)
+Índice 643: Vazio
+Índice 644: Vazio
+Índice 645: 3 título(s)
+Índice 646: 1 título(s)
+Índice 647: 2 título(s)
+Índice 648: Vazio
+Índice 649: Vazio
+Índice 650: Vazio
+Índice 651: 1 título(s)
+Índice 652: Vazio
+Índice 653: 1 título(s)
+Índice 654: Vazio
+Índice 655: 1 título(s)
+Índice 656: 2 título(s)
+Índice 657: 1 título(s)
+Índice 658: 1 título(s)
+Índice 659: Vazio
+Índice 660: 3 título(s)
+Índice 661: Vazio
+Índice 662: 1 título(s)
+Índice 663: 1 título(s)
+Índice 664: Vazio
+Índice 665: 2 título(s)
+Índice 666: 2 título(s)
+Índice 667: Vazio
+Índice 668: 1 título(s)
+Índice 669: 1 título(s)
+Índice 670: Vazio
+Índice 671: 1 título(s)
+Índice 672: 2 título(s)
+Índice 673: 1 título(s)
+Índice 674: 1 título(s)
+Índice 675: 2 título(s)
+Índice 676: 1 título(s)
+Índice 677: 1 título(s)
+Índice 678: 3 título(s)
+Índice 679: 2 título(s)
+Índice 680: 1 título(s)
+Índice 681: 1 título(s)
+Índice 682: Vazio
+Índice 683: 1 título(s)
+Índice 684: 2 título(s)
+Índice 685: Vazio
+Índice 686: 2 título(s)
+Índice 687: 1 título(s)
+Índice 688: Vazio
+Índice 689: 1 título(s)
+Índice 690: 1 título(s)
+Índice 691: Vazio
+Índice 692: Vazio
+Índice 693: 1 título(s)
+Índice 694: 3 título(s)
+Índice 695: Vazio
+Índice 696: Vazio
+Índice 697: Vazio
+Índice 698: Vazio
+Índice 699: Vazio
+Índice 700: 2 título(s)
+Índice 701: 2 título(s)
+Índice 702: 1 título(s)
+Índice 703: 1 título(s)
+Índice 704: 2 título(s)
+Índice 705: Vazio
+Índice 706: 2 título(s)
+Índice 707: 3 título(s)
+Índice 708: 2 título(s)
+Índice 709: 1 título(s)
+Índice 710: 4 título(s)
+Índice 711: 1 título(s)
+Índice 712: 2 título(s)
+Índice 713: 2 título(s)
+Índice 714: Vazio
+Índice 715: Vazio
+Índice 716: Vazio
+Índice 717: 1 título(s)
+Índice 718: 1 título(s)
+Índice 719: 2 título(s)
+Índice 720: Vazio
+Índice 721: 1 título(s)
+Índice 722: 1 título(s)
+Índice 723: 2 título(s)
+Índice 724: 1 título(s)
+Índice 725: 1 título(s)
+Índice 726: 1 título(s)
+Índice 727: Vazio
+Índice 728: Vazio
+Índice 729: 1 título(s)
+Índice 730: 1 título(s)
+Índice 731: 5 título(s)
+Índice 732: 1 título(s)
+Índice 733: Vazio
+Índice 734: 2 título(s)
+Índice 735: 1 título(s)
+Índice 736: 3 título(s)
+Índice 737: 1 título(s)
+Índice 738: Vazio
+Índice 739: 1 título(s)
+Índice 740: 1 título(s)
+Índice 741: 4 título(s)
+Índice 742: 2 título(s)
+Índice 743: 1 título(s)
+Índice 744: Vazio
+Índice 745: 1 título(s)
+Índice 746: 2 título(s)
+Índice 747: 2 título(s)
+Índice 748: 1 título(s)
+Índice 749: Vazio
+Índice 750: Vazio
+Índice 751: Vazio
+Índice 752: 1 título(s)
+Índice 753: 2 título(s)
+Índice 754: 1 título(s)
+Índice 755: 2 título(s)
+Índice 756: Vazio
+Índice 757: 1 título(s)
+Índice 758: 2 título(s)
+Índice 759: 1 título(s)
+Índice 760: 1 título(s)
+Índice 761: 1 título(s)
+Índice 762: Vazio
+Índice 763: Vazio
+Índice 764: 2 título(s)
+Índice 765: 4 título(s)
+Índice 766: Vazio
+Índice 767: 1 título(s)
+Índice 768: 1 título(s)
+Índice 769: 1 título(s)
+Índice 770: 1 título(s)
+Índice 771: Vazio
+Índice 772: 3 título(s)
+Índice 773: 1 título(s)
+Índice 774: 2 título(s)
+Índice 775: Vazio
+Índice 776: Vazio
+Índice 777: 1 título(s)
+Índice 778: 1 título(s)
+Índice 779: Vazio
+Índice 780: 1 título(s)
+Índice 781: 1 título(s)
+Índice 782: Vazio
+Índice 783: 1 título(s)
+Índice 784: 1 título(s)
+Índice 785: Vazio
+Índice 786: 2 título(s)
+Índice 787: 2 título(s)
+Índice 788: 1 título(s)
+Índice 789: 2 título(s)
+Índice 790: 1 título(s)
+Índice 791: Vazio
+Índice 792: 3 título(s)
+Índice 793: 1 título(s)
+Índice 794: Vazio
+Índice 795: Vazio
+Índice 796: 1 título(s)
+Índice 797: 1 título(s)
+Índice 798: 2 título(s)
+Índice 799: 1 título(s)
+Índice 800: 1 título(s)
+Índice 801: Vazio
+Índice 802: Vazio
+Índice 803: 1 título(s)
+Índice 804: 1 título(s)
+Índice 805: 2 título(s)
+Índice 806: 2 título(s)
+Índice 807: 2 título(s)
+Índice 808: 1 título(s)
+Índice 809: Vazio
+Índice 810: Vazio
+Índice 811: 1 título(s)
+Índice 812: 1 título(s)
+Índice 813: 1 título(s)
+Índice 814: 1 título(s)
+Índice 815: Vazio
+Índice 816: Vazio
+Índice 817: 1 título(s)
+Índice 818: 1 título(s)
+Índice 819: 1 título(s)
+Índice 820: 4 título(s)
+Índice 821: 2 título(s)
+Índice 822: 1 título(s)
+Índice 823: Vazio
+Índice 824: 4 título(s)
+Índice 825: 1 título(s)
+Índice 826: 1 título(s)
+Índice 827: 2 título(s)
+Índice 828: Vazio
+Índice 829: 1 título(s)
+Índice 830: Vazio
+Índice 831: Vazio
+Índice 832: Vazio
+Índice 833: 1 título(s)
+Índice 834: 2 título(s)
+Índice 835: Vazio
+Índice 836: 2 título(s)
+Índice 837: 2 título(s)
+Índice 838: 1 título(s)
+Índice 839: Vazio
+Índice 840: 2 título(s)
+Índice 841: 2 título(s)
+Índice 842: Vazio
+Índice 843: Vazio
+Índice 844: 3 título(s)
+Índice 845: Vazio
+Índice 846: 1 título(s)
+Índice 847: Vazio
+Índice 848: 1 título(s)
+Índice 849: 1 título(s)
+Índice 850: Vazio
+Índice 851: 1 título(s)
+Índice 852: 1 título(s)
+Índice 853: 2 título(s)
+Índice 854: Vazio
+Índice 855: Vazio
+Índice 856: 1 título(s)
+Índice 857: Vazio
+Índice 858: Vazio
+Índice 859: Vazio
+Índice 860: 1 título(s)
+Índice 861: 1 título(s)
+Índice 862: 3 título(s)
+Índice 863: 1 título(s)
+Índice 864: 1 título(s)
+Índice 865: 2 título(s)
+Índice 866: Vazio
+Índice 867: 1 título(s)
+Índice 868: 2 título(s)
+Índice 869: 2 título(s)
+Índice 870: Vazio
+Índice 871: Vazio
+Índice 872: 1 título(s)
+Índice 873: 1 título(s)
+Índice 874: 2 título(s)
+Índice 875: 1 título(s)
+Índice 876: 2 título(s)
+Índice 877: 3 título(s)
+Índice 878: 1 título(s)
+Índice 879: Vazio
+Índice 880: 1 título(s)
+Índice 881: Vazio
+Índice 882: Vazio
+Índice 883: 2 título(s)
+Índice 884: 1 título(s)
+Índice 885: 2 título(s)
+Índice 886: Vazio
+Índice 887: Vazio
+Índice 888: 2 título(s)
+Índice 889: Vazio
+Índice 890: 1 título(s)
+Índice 891: 1 título(s)
+Índice 892: Vazio
+Índice 893: Vazio
+Índice 894: 1 título(s)
+Índice 895: Vazio
+Índice 896: 1 título(s)
+Índice 897: 1 título(s)
+Índice 898: 1 título(s)
+Índice 899: 2 título(s)
+Índice 900: 5 título(s)
+Índice 901: 1 título(s)
+Índice 902: Vazio
+Índice 903: 1 título(s)
+Índice 904: 1 título(s)
+Índice 905: 1 título(s)
+Índice 906: 1 título(s)
+Índice 907: 3 título(s)
+Índice 908: 1 título(s)
+Índice 909: Vazio
+Índice 910: 1 título(s)
+Índice 911: 3 título(s)
+Índice 912: 1 título(s)
+Índice 913: Vazio
+Índice 914: 1 título(s)
+Índice 915: Vazio
+Índice 916: 1 título(s)
+Índice 917: 1 título(s)
+Índice 918: Vazio
+Índice 919: 1 título(s)
+Índice 920: Vazio
+Índice 921: 3 título(s)
+Índice 922: Vazio
+Índice 923: 1 título(s)
+Índice 924: 2 título(s)
+Índice 925: 1 título(s)
+Índice 926: 1 título(s)
+Índice 927: Vazio
+Índice 928: Vazio
+Índice 929: Vazio
+Índice 930: 1 título(s)
+Índice 931: Vazio
+Índice 932: Vazio
+Índice 933: 1 título(s)
+Índice 934: 2 título(s)
+Índice 935: Vazio
+Índice 936: 1 título(s)
+Índice 937: Vazio
+Índice 938: 4 título(s)
+Índice 939: 1 título(s)
+Índice 940: 2 título(s)
+Índice 941: Vazio
+Índice 942: 2 título(s)
+Índice 943: Vazio
+Índice 944: Vazio
+Índice 945: Vazio
+Índice 946: Vazio
+Índice 947: 2 título(s)
+Índice 948: 1 título(s)
+Índice 949: 1 título(s)
+Índice 950: 1 título(s)
+Índice 951: 1 título(s)
+Índice 952: 1 título(s)
+Índice 953: 1 título(s)
+Índice 954: Vazio
+Índice 955: 3 título(s)
+Índice 956: 4 título(s)
+Índice 957: 2 título(s)
+Índice 958: 1 título(s)
+Índice 959: 1 título(s)
+Índice 960: 1 título(s)
+Índice 961: Vazio
+Índice 962: 1 título(s)
+Índice 963: 3 título(s)
+Índice 964: 1 título(s)
+Índice 965: 1 título(s)
+Índice 966: 2 título(s)
+Índice 967: 1 título(s)
+Índice 968: 2 título(s)
+Índice 969: Vazio
+Índice 970: 1 título(s)
+Índice 971: 2 título(s)
+Índice 972: 1 título(s)
+Índice 973: 3 título(s)
+Índice 974: Vazio
+Índice 975: Vazio
+Índice 976: 3 título(s)
+Índice 977: 2 título(s)
+Índice 978: Vazio
+Índice 979: Vazio
+Índice 980: 1 título(s)
+Índice 981: Vazio
+Índice 982: 2 título(s)
+Índice 983: Vazio
+Índice 984: 1 título(s)
+Índice 985: Vazio
+Índice 986: Vazio
+Índice 987: Vazio
+Índice 988: Vazio
+Índice 989: Vazio
+Índice 990: 2 título(s)
+Índice 991: Vazio
+Índice 992: 3 título(s)
+Índice 993: 1 título(s)
+Índice 994: 1 título(s)
+Índice 995: Vazio
+Índice 996: 4 título(s)
+Índice 997: Vazio
+Índice 998: 1 título(s)
+Índice 999: Vazio
+Índice 1000: 1 título(s)
+Índice 1001: 2 título(s)
+Índice 1002: 1 título(s)
+Índice 1003: Vazio
+Índice 1004: 2 título(s)
+Índice 1005: 3 título(s)
+Índice 1006: 2 título(s)
+Índice 1007: 1 título(s)
+Índice 1008: 1 título(s)
+Índice 1009: 1 título(s)
+Índice 1010: Vazio
+Índice 1011: 1 título(s)
+Índice 1012: 1 título(s)
+Índice 1013: 2 título(s)
+Índice 1014: Vazio
+Índice 1015: 3 título(s)
+Índice 1016: Vazio
+Índice 1017: 1 título(s)
+Índice 1018: 1 título(s)
+Índice 1019: Vazio
+Índice 1020: 2 título(s)
+
+Total de índices vazios: 348
+
+Posição do título específico ('ESTUDANDO COMPLEXIDADE COM FELIPE RONZANI SILVA') para vetor de 1021 posições: 384
+
+========================================
+
